@@ -1,0 +1,42 @@
+
+C:\Users\dines\Documents\terraform-docker-demo>cd C:\Users\dines\Documents\terraform-docker-demo
+
+C:\Users\dines\Documents\terraform-docker-demo>echo # Terraform Docker Demo > README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo. >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo ## Objective >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo Provision a local Docker container using Terraform. >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo. >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo ## Tools used >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo - Terraform (v1.6.6) >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo - Docker >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo. >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo ## Steps completed >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo - Configured Docker provider in Terraform >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo - Wrote Terraform code to create a Docker container >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo - Initialized Terraform (terraform init) >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo - Planned changes (terraform plan) >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo - Applied changes (terraform apply) >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo - Checked Terraform state (terraform state list) >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo - Destroyed infrastructure (terraform destroy) >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo. >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo ## Execution logs >> README.md
+
+C:\Users\dines\Documents\terraform-docker-demo>echo Logs of commands and their outputs are included in logs.txt. >> README.md
